@@ -30,7 +30,7 @@
 ![image](https://github.com/panimalarponnurangam/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/121490826/1d564ca6-d4f5-4c27-8b3f-0fec404a6b82)
 
 
-### Name:Panimalar.P
+### Name:Panimalar  P
 ### Register Number:212222110031
 
 ## Result:
